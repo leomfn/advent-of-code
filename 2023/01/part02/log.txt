@@ -1,0 +1,2000 @@
+cmpptgjc3qhcjxcbcqgqkxhrms firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 33
+9sixonefour firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 127
+eighttwo2twofour9 firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 216
+7eightseveneightthree firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 289
+tlnllks2jcfdlgsjbhpfnineone firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 310
+one44fivesevenjzsfzddg firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 327
+787seveneight75five firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 402
+7q7nine3 firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 475
+hlqphphn5dtzzbqvk3three8seven firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 532
+ninekkbvsfq8seven7321bpdcdh firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 623
+9kxgfxntgdzs1ns5 firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 718
+nineblxtnrt79t8fourbcqdzpb firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 812
+3mjqgthreeseven36gkvvvqppx firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 848
+zpcvkjjqeight94one82mrvfzdvlgjgkhj firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 930
+nine11 firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 1021
+rnscpccv8 firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 1109
+7eightrcqnbtkn firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 1187
+four31zqgrccc4eight firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 1235
+two65fourfourt1 firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 1256
+twomg2764threesix firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 1282
+546grjcrsix9 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 1341
+4ffourfourff1 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 1382
+dpfkcrzjxr8four firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 1466
+641one firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 1527
+kseven8 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 1605
+two4four firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 1629
+ldzpzgch325hsttqvmp9foureightmvsknbd firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 1667
+onexrbclqlnvp5kqtrsgdh8nine firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 1686
+rk9qfzvszksjqsixg firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 1782
+dcnhlcqzhthreebhrnfgjbfive1threetwo53 firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 1815
+1twoeightfivefjmpkdlg firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 1830
+eight6bmnbcth firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 1916
+nineczfgrphfeight7sixrnzphsqsq7cxfrsv firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 2013
+9f firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 2112
+xcnqtvp451jxvvninefourdcvvnvxb firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 2156
+threegqlsctbp871nine firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 2195
+hfjgjhctwotwo9twobqfour firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 2219
+twoeightmhhvprgq7two8five54 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 2243
+qqqvtjxnbgseven8nvmbxsvtblqml4seven1z firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 2314
+9mfbcd745rlxmjzrqgxql firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 2409
+sixonepmqlqprf3 firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 2472
+lzkjxckkone1two92bt firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 2484
+threelftflq7 firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 2521
+htqxfmfx665 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 2586
+fivegggb3 firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 2639
+jbgkbzmtrxcng5sixvbxbjxttql firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 2695
+ninesixmlfjxhscninehqcdvxf8nzfivetwonehhd firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 2786
+64sixbjtkh5txqngv firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 2851
+vlcn6bkbf7dlnine firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 2920
+186 firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 2936
+4five9c7kbhbmkz2 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 2978
+7tfourqjjzkktzplr47sjkkplrnrprll firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 3055
+eightthreelrjdvhbfkd8 firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 3143
+46nineone firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 3184
+two9lhktgj2nvldxljfzjb3fmdzpm9 firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 3213
+four46twohssd3 firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 3256
+4sixx34kxqllszlseven firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 3303
+phnthreebtjxspeight7f firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 3340
+sixglcvfbsqonexkflggbeight8tzkktdm5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 3405
+sevenninethree1eightone1six firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 3481
+bcbrrhnpcmmbdz9qshthhb5ggjvb firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 3576
+twoonectcxjbclv9pmqvvddxlkgqxcmfqgppzt firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 3605
+jqzjrk8lr firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 3693
+dfoursfivenine6 firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 3739
+eighteightsevenmxsssjdvgdphfg9z firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 3828
+4seven2psg8hqg9oneightnzc firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 3876
+threefive5twoeighteight561 firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 3907
+onesix8onethreeninefoursix firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 3923
+4sdfsgbzdkseven1rtlcdtrxmone7 firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 3970
+3gmfbc firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 4003
+33szvbrpzjqsvjmvhntwo firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 4035
+1ninehrhqzxqqvf7bzckpjfbbzgt3seven firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 4052
+rkgzrsmtg9fournvplkkxsmslmkr firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 4146
+foursevenkmdvtxflrddnthreetwofive8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 4194
+zfourvxngsmmqsldpkrrbfnjf2mvkdhfs7eightwotc firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 4236
+8sixnczfxtwotstrfourflsmzone firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 4317
+rtnvpld4fivesdgtmdvghtjk4two firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 4359
+ninenine3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 4452
+ninefivetwofoureight41qsrbtfhkk firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 4543
+741zcshxvrflgpdheight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 4621
+eight8jgjrrtpfivefour firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 4705
+9fourninenine1two firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 4797
+mcltnxsevenfzbqtfkkz4twommrcdgxqktbxph firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 4869
+nine85jrthpqfvzzfzrbdtvfd firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 4964
+1mdpqzkc firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 4975
+nineonefivetwosix42 firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 5067
+sixtwoeightbqnzljxdv48sevenfour firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 5131
+3slzdjzm4 firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 5165
+four952 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 5207
+zfmsfsh8gqgsvntwotdpgjxtzpk21bg2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 5289
+8fivefourninebljjv firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 5378
+fcscqqsix6fourrprgzqqv firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 5442
+eight4ljj3 firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 5525
+f6gmftwoqdtpmtmnxb1llg firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 5586
+fourninethree2ninedzzxxbpvmtgcrmv firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 5635
+54hjbkdthh84fivegpmdl4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 5689
+deightwoone8threegfnhhfngtwoeightsix firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 5775
+onenine9ddsjfrnctonedfz firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 5786
+sone2fourtwojt firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 5798
+ckhbpvnrklvjkqjsevenfive2six firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 5874
+29one8eight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 5902
+j4fiveeight firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 5950
+ftjjcrdtwocq4 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 5974
+five72sevenjf59nineeight firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 6032
+6thfhvtr5eighteightsix firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 6098
+seven8nine619 firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 6177
+bzloneightqqhxqdvsgjthree1nskcvcxhlzp6 firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 6193
+nine6rcq7lghfjkmksxpbz firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 6290
+hjpstbxsrbx3mrfnsbbgpvnqx9four4 firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 6324
+two6knbsevenone firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 6345
+two149sixpvvpq6nine firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 6374
+onedmvpc2kb firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 6386
+sbzvkxclj33zgfrqrv firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 6419
+rjxsixseveneightbpnmgfpfourcrlxfhf1 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 6480
+hdpfoureightfive2dvcxzmvkcpsix firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 6526
+four31qklnqrzj8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 6574
+threejdjql2jzsjxmxmmm firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 6606
+53dxnzlcpone2jnfjeightfbl firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 6664
+38four77hbvlfz firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 6701
+five387sixeight8 firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 6759
+2pkvnlpzkpn224 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 6783
+one4two7one9 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 6802
+ninexvxscjhxgp5bmssbkxq firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 6897
+2vrgxknnljx3 firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 6920
+8xzqgnngtsxlzgszc3 firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 7003
+cjlkeightrndmxlgteightone8 firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 7091
+sbkhrnxh1nkrzmbzl2two5three firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 7104
+94zpvx8 firstNumber 9 lastNumber 8 twoDigitNumber 98
+sum 7202
+geight7sixthreethree firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 7285
+3sixsevenjlp4xkfthone firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 7316
+zvg1 firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 7327
+3eight3fiveeightsck firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 7365
+3one4one3 firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 7398
+6nine8 firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 7466
+three9328skfxpseven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 7503
+sixrsix2jclzqqjkg firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 7565
+1vpdjgfxbxccrt5txkkzdmz1gxrdndmone8 firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 7583
+sixfiveeightthreetwo4 firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 7647
+84threehb7fnkkzhsthree firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 7730
+three6ninerjshsg firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 7769
+rfnhdh4dseven firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 7816
+four1one4mjbnjnrrthreerlvhfkfzseven firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 7863
+9rqkkjzk1six6fgfzfdnvnprf8six firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 7959
+5jfpcbrrqfivemzjrqgdlnine6msmqxkzgcj firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 8015
+sevenonevg489fourhtvssdcb1 firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 8086
+threeeightsevenbjmhkllzrpsntmmjr2 firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 8118
+qvcrg4sdxkbvtr93 firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 8161
+bgrsevenpfcttmm7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 8238
+98xxnkzdhrjsvccrf6fivezbkksix firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 8334
+gcxgflt5r3 firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 8387
+51lhnzxkblsr firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 8438
+9eightfourrblfncg firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 8532
+ppjxmqfqpsthree1ninesixthreetwoseven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 8569
+7eight86onenpgmdxfs43 firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 8642
+three4zhrtksksfsfslrkk firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 8676
+7three2seven1 firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 8747
+eightninexvxqmzrzzmrpmhcdf41eight firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 8835
+37pmvml1zfdqvxjn8 firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 8873
+sixnineseven1six1 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 8934
+zqqcnmnk4rtrmfxh firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 8978
+5fourfive4jjvvhdzfgtctxrzfour firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 9032
+63thfzthsixhfrpvmfive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 9097
+kzvsgnlfive144six4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 9151
+eight5two4five35onej firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 9232
+mnfbqk8seven6glnzmmsthree firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 9315
+xnrhrkpfzvtvljbljltrbzsjpfivevzldrbbjcl622 firstNumber 5 lastNumber 2 twoDigitNumber 52
+sum 9367
+5sb firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 9422
+fivetwo4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 9476
+eighttwoone27 firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 9563
+pcrlmgh4qsixeightz8dpfour firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 9607
+cnvoneight9gmmthreedqvzqcgsxfnhjpmrtwothree firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 9620
+5713 firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 9673
+jjzdfour77lkbjhznrseven firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 9720
+bgqjjszhv9fiverfive6jcfour3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 9813
+hzxznrhdnvnbsd4sixprlsvcthree firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 9856
+tbmsxscxtlqfbl3sevenvlbsvzcn firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 9893
+vndbbjkcqn5twofivexhm firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 9948
+ggggbxfxd6eight5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 10013
+bdbfcb5four9 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 10072
+14threedbbfqlthreetwoz firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 10084
+onefour9 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 10103
+three28seven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 10140
+1vbnrfrklk46qzbthreetnine firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 10159
+eight45onesix firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 10245
+threepl81k firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 10276
+sevenglpgthreethree93one7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 10353
+8one4seven1 firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 10434
+djkhlmgct3nbftrrthreesixseven56 firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 10470
+ninethreeonetwo49dh1 firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 10561
+8mssvsgtkskninesixdznsgthree firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 10644
+1sixeight firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 10662
+6npqbhmfmnzthree669 firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 10731
+9dgnbhnzsevenfd firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 10828
+four5jljzpjgd9 firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 10877
+pzcrgfhxzblkmczjstl12nxkgglgmznlgjgnszc firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 10889
+39twotwoxqsj14 firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 10923
+2rzvpfpgzxk3863eightoneighttbb firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 10951
+8seveneightfour1mgdkrqltcvshss firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 11032
+eight6mfjdlkffttbnzdj7pqhdddfv firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 11119
+sixc7c firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 11186
+2eightfivetwoshj6 firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 11212
+twonjn4threekxdkzctspb2 firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 11234
+foureight3122lmtdrpvlkq8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 11282
+58xdnine9csmvrnjdk firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 11341
+znkn4jznzgclhzfnhcqfgsdkbmmg4nsx firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 11385
+736 firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 11461
+two3cgb firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 11484
+fplfcfs7four9cp8nine firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 11563
+83seven firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 11650
+716 firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 11726
+eight64925eightffnlprnnfkpggkkl firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 11814
+one3nkbmdkxneight firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 11832
+sevensix9threesixmgdpeight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 11910
+6six437phtmrnm firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 11977
+7ckfkqbkmkeight266five firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 12052
+nine11sixsixeightwonpf firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 12144
+fourdbhpksjtwo1 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 12185
+kdfrppmhgseven1seven4mhktztvfour1 firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 12256
+sixddgtqm4gbrjvfive1onep firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 12317
+prxsbcbs16npg7 firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 12334
+rtxxfxl1s firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 12345
+six22nineninevnfznsdqltg7 firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 12412
+snvtwonesgxqpnmp79one5 firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 12437
+lppcnndmsdms61 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 12498
+vtspflkxfive5332 firstNumber 5 lastNumber 2 twoDigitNumber 52
+sum 12550
+231three firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 12573
+ninetbrsixm89 firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 12672
+8eight6bxtx2sixfive5kjtj firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 12757
+24zfjbcsevenbvnxhbfgpzteight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 12785
+four9754zpjjjgsddxvxmsfzzfour8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 12833
+one2twopbggv firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 12845
+7zldhnmcptvtwo5seven73 firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 12918
+sixgctgprqgzspb5bqlqxdrpdp2sevenr firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 12985
+49lxmrzvzzr3 firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 13028
+feightwoglj4ctrzmvvfive7hb6 firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 13114
+fkdtzf24onetwo firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 13136
+61ntkdflftmvmtvrgklnjhjtjsvfqjsjvsevenjrljdsix firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 13202
+9nineonenbmjvmsncggzcbbpc5klckzkvtn firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 13297
+3fivejmzpfdc8one firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 13328
+zsskqhfhpnine684twofive firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 13423
+3bsix firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 13459
+39one68six firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 13495
+8djbfxf firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 13583
+tmfhtlzqkjlvggckfkggng9eightthreesix9 firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 13682
+915onefour3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 13775
+td7nineppxltprlsevenxftpsvcfourvqzpr firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 13849
+72k695two firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 13921
+873bpgkbmeight firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 14009
+twoninexmrhxptfive31 firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 14030
+tseightwoeightfourrhlsbsvmk5 firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 14115
+7xxnlgggcncfivefour7five4eight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 14193
+4one2eightsixrlkl firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 14239
+746five6foureight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 14317
+ljjn7nineonepjqnsgzvvg79nine firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 14396
+rtcjxtqzsevenfhmsnmmb35 firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 14471
+sevenqjjpndspl1six firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 14547
+threefourmnhhvdssbkqnsnphzb5b6btnjszj firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 14583
+2fiveeight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 14611
+sixeightone2mpkvkvxdnbhjqrsxsbmtltr1two firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 14673
+3fourfivenine929 firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 14712
+8sqgxpceightseveneightone2gvfmjqc firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 14794
+eight8threesixllngjhzlcbmjbscsone firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 14875
+mpb7onenine firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 14954
+three76four firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 14988
+4rmh4ninebsixtwo firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 15030
+threeknjdnnmcbnknpfs5xxhptlstpsqqjvm firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 15065
+onexqnhxrkc3sixsix9four firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 15079
+ztwoneseventhreesixfive159seven firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 15106
+jteightwov9one8bzlqbrnhtjb31 firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 15187
+jxdhxtcfzmfgqtqnine8one firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 15278
+hcbtwoneseventnrkgs5dfsix firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 15304
+499zlfphzfxqjvsjzzqv firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 15353
+4fourtpbkxcvhdrm firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 15397
+xtkt7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 15474
+fsmjbcfteightrvvghfp1onefivenrnqjsixxnqrkjpz firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 15560
+4krqtjfntzhld firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 15604
+kltzvrjbdseveneight63onepqztpqkhrceight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 15682
+ninellvllxfcqn8six49 firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 15781
+711 firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 15852
+dmphpfsffghkmpxxrpone1eight firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 15870
+6seventhree4frdcfeight firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 15938
+hfrkj2bzg2fivebprjpt firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 15963
+5fournine1tqxs22sixseven firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 16020
+kvzpd6twofive1 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 16081
+s5toneeightthree firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 16134
+twosevenfour8htggp9 firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 16163
+zfourcs6onefour firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 16207
+9ppm5vmtcrvzfn firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 16302
+rvtsqjztqvpfourthree7zspszmjrmjrxrgcldththree firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 16345
+gcqbthree7vkthree85 firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 16380
+twolsfive41 firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 16401
+9nine6five firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 16496
+6ftxkzfmr83six firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 16562
+fourneightone1nine4tvkrxqlq firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 16606
+four1jkskfoursncbzpfive firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 16651
+7fnffmtdllthree firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 16724
+jdjbzhfctvq9five5seven firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 16821
+rtrsmnv4eight3qkrhnv5xtcgdccm firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 16866
+zzkdlvpxzjqsx8hfctgconeone23 firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 16949
+nshsvxrbssmfour72 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 16991
+fivepkzgbqlvrjmrcnzq9sevenkqpjplg firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 17048
+37dds5 firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 17083
+vcfour5 firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 17128
+52one firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 17179
+five7threetvrxvdsrpq firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 17232
+lmqseven476four firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 17306
+9bvkcsts4sfourfiveeightwocz firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 17398
+41slptg3three firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 17441
+5sixvtzgbhsqsl57eight firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 17499
+jvslvrh4five7fivemdvphj firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 17544
+7five3rbpsbsfffstone4fivenine firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 17623
+2fourtmcjnczqtvcgs162x firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 17645
+7vnd5eightsjnfdfsxvxblhql3pckltds firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 17718
+8zmt3zr firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 17801
+13cbmlmkdlfljhthreeoneightv firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 17819
+dzsfeight29five6oneseven firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 17906
+lvdzxlhgmztdfive2rzsftzhgzgxqt4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 17960
+jrznkqfjmvkhvmxdpdone6jzjntv5fivedfrtgbdvz firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 17975
+5hrnkgsnmnj firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 18030
+7oneklbccfmpqtwoeightfivetfqnqflgnjfoureight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 18108
+six8786 firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 18174
+3hmbvfdqxkknine2st firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 18206
+qfgskxcxphfmlcvshseven4qkbhtgsznnsix firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 18282
+7mjnvsscjchtwo firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 18354
+2sixpzqfkjlqsjkjpstmzfivethfvmsvq7 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 18381
+qttgtwobxbzmndbmcjdp1rpqmrf firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 18402
+4ninefour firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 18446
+8vv firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 18534
+75nine6cnm9zmkqjbjpb1 firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 18605
+six8hfnl firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 18673
+eight2xxmzr firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 18755
+39two2seven1onethreefour firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 18789
+5zvt firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 18844
+27fournshsbhfsnz firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 18868
+twovpglcchhcrg9zfive firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 18893
+jxgj1seven firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 18910
+nineone281mfshfzm4 firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 19004
+rljbtcknczjn1nine firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 19023
+mrxztmtsix32 firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 19085
+seven95three9 firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 19164
+btwonekzg6fivefoursixsix firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 19190
+ninesgnclqpcrlmm8 firstNumber 9 lastNumber 8 twoDigitNumber 98
+sum 19288
+fiveonethreedsbzxl7fjkzqcxq4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 19342
+bzkr2twolcjbxjbzlx7seven firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 19369
+8zzcdftnz firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 19457
+4prpzmtwo firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 19499
+cnzbcj95cqnjmzzbonevtcxllpzdt2ssbpmblcd1 firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 19590
+4vncs241fivefnfcqcnpp6six firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 19636
+34bmqvhnfqnine firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 19675
+twocsdp46threethreeptskb firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 19698
+bclh6ninengrgceight4 firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 19762
+kpkf6cxrqjck9 firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 19831
+three44five6nine3dbnrxq firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 19864
+2onesixrleight2rshfour firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 19888
+eightvfflfour8gmldcggzlgmbcdnsqfourdvsksvmgh firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 19972
+st79nine25htmnhzqzdbcfb firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 20047
+xdvm14 firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 20061
+eightfivethreefiveninemhdvnmnssmfmnhcc3fqmcjbhptwonebj firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 20142
+7gkpgeight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 20220
+threepdfkppttpdsltvhz97three1seven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 20257
+nine3ntwo firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 20349
+three4seven2jtqqfnineqlzrcjtwo firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 20381
+48sixfhrzseven firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 20428
+1262 firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 20440
+xgfxtb4ninecnsix6pplllvmb firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 20486
+1bfvc3xnmrsxqttthreecshtkllpbbfh7 firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 20503
+3four4qg76threeqq firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 20536
+zkxsjqlqlpqzlczsix2glbgj5five firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 20601
+onezv2sevenfklgjbflsjtcbpseven1 firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 20612
+fivehht7rplnlrxrfkspsglmbzsone7one firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 20663
+sixseven696zsixzjrgqhhzhpfour firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 20727
+sixnine7rbmggnxjmv85cdxrgkksb firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 20792
+1fourfiventhreefive firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 20807
+5five5nineone firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 20858
+threedgfkpdhrp7 firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 20895
+66seventhree firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 20958
+3twoonef9 firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 20997
+1683h3 firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 21010
+onezddcone49sevencrcrkjsst firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 21027
+9324eight firstNumber 9 lastNumber 8 twoDigitNumber 98
+sum 21125
+rfgqmrr8 firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 21213
+sgmqht941tx9eightstlsdrqfbgccgtc firstNumber 9 lastNumber 8 twoDigitNumber 98
+sum 21311
+threefive62fqfhfdh firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 21343
+8fbz firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 21431
+oneeightb3cbrlrsbhbgjbcjjhjvs6 firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 21447
+7jzfndreightseven9 firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 21526
+mkoneightfive1mpx1tsjskpl4 firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 21540
+six7bdx37fiveninesbp firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 21609
+nbsrgxh4sgggnzdxcfourpstvtvlsfiventsjsqnsix firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 21655
+hbtwone5fouronercjmz3eight4 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 21679
+three5nqzpzdonethreethreev firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 21712
+89six4threefour firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 21796
+jtrqvnhsxkkfour783nmtfjzzone firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 21837
+2threethreexdkgtfcxpjpzvbrjjfiveeight8njtcxg firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 21865
+eight839lhftninekcvkpv2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 21947
+dkcdnhdsbqcbpronegljjmbjtfour3 firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 21960
+fmfhzfsevenpnbtjvvdtwo37eight5nine firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 22039
+34fkcpmc firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 22073
+oneseven39 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 22092
+gz5ninebdxxcmhskvjm775 firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 22147
+qzgeight5clhs2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 22229
+41seventhree5seven4seven1 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 22270
+rztlppfpfbsix87 firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 22337
+33sixdsqttqzgmpqvlxschqlvqttsixtbqm firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 22373
+pzzngknine75vglbflqxt3plpqcrtrbmfpqsdrmh firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 22466
+kvvtlx2three8vjqgvksrone firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 22487
+ninethree1cnmrdzdkfb1threergjdcfmthreecktfrhgh firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 22580
+6ffdlktltvssevenp firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 22647
+kpfmsevenczcnfive3five firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 22722
+xfive39 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 22781
+lhmj4xtjglmlthreethree1zjlbdfnncteighteightwop firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 22823
+9seven985 firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 22918
+eight6fourfive firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 23003
+55k firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 23058
+24twogpbggkpxnjdsxdlhb73mjqz firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 23081
+njqtnjh8sfskrhtpmx firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 23169
+sixffnkq1ltfstjk firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 23230
+8foursixqqlzgch firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 23316
+zhbvngkkcx9onegbxdggmlph firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 23407
+3threerxjsn firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 23440
+seven9qk firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 23519
+seven4sixsxdtgppsix6seven firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 23596
+onebbsqvthree5 firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 23611
+72eight8hnqqntwo firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 23683
+6six7threebmdqbsgkmhnfive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 23748
+6oneseven firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 23815
+lcjts7k5lvptsevenqdtbtqpmhlcjn firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 23892
+twofoursix4fivesixthreecvlbthree firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 23915
+two7dskdzgs4onethreethreeseven firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 23942
+qchrtnineblmhspplmllhvrjbth7bkzql firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 24039
+lkmdbdpgnr2threefjxnqztjhpsvfourl firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 24063
+twofive9fiveninecnhlrm5tgkqgjjj firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 24088
+fkkbkdnnfnzgxclppzbsq2llkzhntsevenbtmlft firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 24115
+6six73fivetwonjbbxkccdgmlbpjoneightnlj firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 24183
+zdthreefv1 firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 24214
+q4hnvkk3five4 firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 24258
+nine9bprrfvsqldtwojrvgcvcj6nine firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 24357
+six48bhptnsix5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 24422
+one78rfnfive6pjxnbqz9 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 24441
+phzjrp8pjfq firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 24529
+2threethree firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 24552
+mhnmzzseven1hrmxlbjpzjfjfsrdbqplgzrnsix9oneightpl firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 24630
+51jq1nfive48one firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 24681
+sixfivethree2pfpgqtvqs87six firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 24747
+seven48vmkcfbq8 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 24825
+ngfzcrghc5dzlqggnvt6sixjgkhzgbzx9 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 24884
+bthreerdpbpntf28 firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 24922
+foursevenfive2 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 24964
+56ctbkpvjrncfour firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 25018
+pdzldtghgvmstfsevenlhnkxfive86seven7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 25095
+3fourccfjskml1nine2 firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 25127
+twosevennine3dn firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 25150
+1crtzbsprbttlszppqcdrfjsz firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 25161
+8vjlsb36six firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 25247
+five19beight7snmbk11 firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 25298
+nineonejjjcqhpzblljdqfmxfhhlhfzc7four firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 25392
+3eightthreellninecfllmfmcgcxsxvbgjsl6seven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 25429
+1mjxzjngbs7sixhvtlzsspninerrrvlppjggpkzsx7 firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 25446
+1twosixthreennrxkltvpzncbfvvfjsqfjone firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 25457
+5cb firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 25512
+zfhhdq432sevenphqone firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 25553
+29eightqvz22 firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 25575
+2ninefour firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 25599
+16one8sixpmjbvqr1six firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 25615
+jhdh2xcqxpn firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 25637
+gqxftjxfiveninefour7sevenczone firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 25688
+1nhgqthree1 firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 25699
+jrrsp1ldrpqcnq3tj5nine firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 25718
+4one9kmknhf4mrjbzx6onenine firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 25767
+nvqsdcnbrhbzckbjbseven4 firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 25841
+mvtkvrpp8sevenonerc firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 25922
+onekmfg98ngqceightkvm firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 25940
+1nhvv5foursevenpd firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 25957
+twotwo771gsqhs9eight7 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 25984
+sixseven82hmghbsbtwo firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 26046
+1vkkbrtcqdnjpmfksbzq firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 26057
+three4sevenltfxr75eightseven8 firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 26095
+eight9six firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 26181
+9351 firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 26272
+jqqqphgqthzjfnxrttnsjgvchzj7fmjrk firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 26349
+ph7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 26426
+kpqvr6onekf3kmblbhtd firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 26489
+qjhr5 firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 26544
+f3ninesix firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 26580
+onetjfivephhhcz8m6 firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 26596
+rpcmcctqzh1eight1fourtwognd firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 26608
+342124 firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 26642
+njqzsqm5kkmlrkbh firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 26697
+thhjgv9onepzzzhv firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 26788
+6six9mqhkzkzpnhb1dbmrgqblgbcsndbfnv4 firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 26852
+nine8x5eightsrmgpfqsrnvkkql4 firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 26946
+95sixfour7nine firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 27045
+seven6tknmlgclllnjbt5rbhqfq firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 27120
+fourfoursevenmone1 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 27161
+hxgkxkczcm7eight45 firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 27236
+85three firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 27319
+one51nineseven firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 27336
+223eight8qgzvlzninelhhvlzhxq firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 27365
+6vdrkgxjnine9 firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 27434
+twofourcq68four firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 27458
+seveneightsevenfivetwoone1cmxdbvtg firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 27529
+seven6nineflcvcljf firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 27608
+6zvlxr23five firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 27673
+geight94foursevendldmv2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 27755
+fiveoneseven5two8hzpdkvjznpd firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 27813
+6lkcvqteight2eightnhbjrk3vdqmf firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 27876
+3three23 firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 27909
+8twospseight36rsscccxvkn firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 27995
+8fivethreetdrbmsfdzheightfour9kxnssglvb firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 28084
+2pvx4threegkgmfthxddbm firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 28107
+five754379five5eightwozxv firstNumber 5 lastNumber 2 twoDigitNumber 52
+sum 28159
+hcbmfrrs9s2smqpfcjbfour firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 28253
+pxhqsbmfdlczcvx8eight8xfsxzfztxthreeseven firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 28340
+seventworfkc9bmpxtwosevenprnfpbkmrn firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 28417
+8vlfkpfnbq firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 28505
+sixgtvzxlnjone8hcpkgbvpcczmflcqfrfdghfivefour firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 28569
+eighttwo7tznhgdhhthreethree firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 28652
+65four2one firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 28713
+qfcjdvnrl1threesrptvdsbnzteight9 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 28732
+fourninefour25 firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 28777
+twomgh3tp firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 28800
+knsccxrpmfsixplvxndnzz4 firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 28864
+eightfive43vbhskonefive firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 28949
+52ninefive firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 29004
+1fourninefourone65fourrstps firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 29018
+eight6qcfone8ninecssbjfnlg firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 29107
+6nine6one firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 29168
+eight5jpprhfx4four firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 29252
+hkcqnfour8fourvsqzxzj firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 29296
+26lmtqvxqhftksqgbrlrcsixsix firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 29322
+4threedp24two firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 29364
+6zgplsrmmqf9mfphjv9eighteight firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 29432
+4threeeightkfpn firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 29480
+threetwoqxglsgvjt9dprbnzvjf firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 29519
+two4sevencppdpcskb firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 29546
+v84qzxqdpjnxfcdbrcrbn7sdtpm7 firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 29633
+4zcgpcfdbxpfbtbfbpspxxjqkcgpf631five2 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 29675
+onetwo3fivefive firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 29690
+2fclzpjxqpnine firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 29719
+kftrczvt36ncsftn7djchszjlcpdmrpxh firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 29756
+6qgdchbfive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 29821
+6spqxqdgsnxvdcxrvkrfourfouronex firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 29882
+2lqbmhmgtmkbcf94three firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 29905
+7pddrgp2npqcjseven firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 29982
+91threevfpdjbxrrkcnlcgqq firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 30075
+nphgjscsklsixkrtpvz6qvvngmn6twofive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 30140
+fivexhppdjnjdphnzjzfbdpdfour1 firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 30191
+three1two6seven7six firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 30227
+ninefoursevenvvpsjpsmtstjrqb4two firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 30319
+hlfpzrxxfgfvvhbtnnmzcbxseventfcqcslrd2 firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 30391
+6dbkvcb2 firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 30453
+968sevengczvvqc25 firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 30548
+c3zqzgnz9 firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 30587
+fivehkxcseven8djnoneightvb firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 30645
+dkvshkxv5two firstNumber 5 lastNumber 2 twoDigitNumber 52
+sum 30697
+9khljm firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 30796
+74threethree46nine24 firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 30870
+57fourfivedkhzqvsxqeightrqqfour8 firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 30928
+22znhr59kqjeight3 firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 30951
+6seveneightsevenbqksdtxztffive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 31016
+23threenzv7fivethreeone8 firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 31044
+fiveb1twocgseven7 firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 31101
+3jxrflshs firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 31134
+zrjbpfkppltssrc718 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 31212
+9rkfsmeight5pgmr firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 31307
+2ljspks firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 31329
+67sixnineqeightonefive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 31394
+vk42two5eightmstgrzndc firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 31442
+4eighttwotwo5hbchfnthree7 firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 31489
+7pdvcdfive5seventhree firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 31562
+6hthreesevenlbgqjl65 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 31627
+nine6oneqfjlxtbzmnfsrskqhonexkphxlvrmh firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 31718
+7four5eight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 31796
+8lrseven8cjlthreefive firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 31881
+mnr5thfqfgfsr firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 31936
+7three7threeqfrgl firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 32009
+15sevenzdzttjcmppeight firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 32027
+five3ninefive1 firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 32078
+62l9dxjtrv5fivethreeoneightrf firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 32146
+njgrrqddnsvxmfvljbsclbjqnkskmrpglgjr7three7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 32223
+g8ninethree firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 32306
+nds8 firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 32394
+koneightlztzvzshjnnl6sevenn firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 32411
+ninethree2eighttwohldqxcbtzn3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 32504
+26ssczpmhsng firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 32530
+nine7czmjl16 firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 32626
+two49294 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 32650
+threenrcrvseveneightone33dvggqv2 firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 32682
+8bpqrdftcqtwo1fxhlsixspfpzt firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 32768
+6sevensevenfourlzjszs9 firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 32837
+gttlbcjpn74 firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 32911
+cdfhbccrr8three13 firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 32994
+ninehrldjvccjnrcdqv2 firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 33086
+8onenine1gzvfphsgmq firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 33167
+22five446 firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 33193
+eightbksdflljdrznvmxjqg1nine firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 33282
+2nine7onenine9 firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 33311
+gtnhfd72 firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 33383
+1svgmggsevenfiveseven firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 33400
+1fiveqbvnr2 firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 33412
+4one71four firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 33456
+51eight38mhkfz9kvmkhj firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 33515
+6onexnbv4twoz3twoqtjvdl firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 33577
+5sht6fkhqlonefour firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 33631
+drjldqrbxxsix6two8five11 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 33692
+tvseven3ninelzvx3 firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 33765
+five1four883bk9 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 33824
+4three32three75eight firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 33872
+ninexvn14 firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 33966
+pnxzrqvkbfive3lzh firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 34019
+1kzkmgnzn9five firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 34034
+3l firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 34067
+fourqjsp832eight8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 34115
+931346xngfkmhrcj5 firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 34210
+24cvbxthpzzkfiveleight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 34238
+k7scmbsxlvqlsbtqdnxn8nine firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 34317
+fsdv5 firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 34372
+79nineonegpmbghmck6bsjnf firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 34448
+one6844 firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 34462
+9dxbtcmtwo93 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 34555
+kzhffive4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 34609
+7ninesevengxlv firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 34686
+rqcfztrpjlmnine9ffgg7 firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 34783
+1tbfpflrhzb firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 34794
+zmmfdsixonefive7onethree9 firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 34863
+7fivezspfkjpbgz firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 34938
+threetscqrztsix3bmtls7threeseven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 34975
+ninehtrvzrlfqmqtdk6twosevenkkdbzsrccd firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 35072
+694nnzfkjcprp3 firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 35135
+sevenzfbslgstn1dbqnblrrffourfournvrx7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 35212
+onetwo4hzljtcrdks13five firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 35227
+93threedrhgg5svpm4seven6 firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 35323
+1sixsixnineonesbvcptsk firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 35334
+3sixjnkvq5tqtzone firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 35365
+sevenfivevjrmqqgf4 firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 35439
+18eightppqfivebmncqgrfour firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 35453
+sixonefourhdzbgjhlj29one firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 35514
+three1jrgjjtq firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 35545
+41three3three62 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 35587
+sevenonesix9one firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 35658
+dr6one7 firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 35725
+sevenrvgljfc9 firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 35804
+7sgqngt7sixfour firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 35878
+9smcksthreekbpczppvv firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 35971
+7fivedptmgrkd4seven firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 36048
+82onefourfivepzqcqzq9 firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 36137
+6zx firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 36203
+7dfk8lsix firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 36279
+eight2nl8573seven1 firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 36360
+5tx6seven3gmhxkcclmrsrggpbgl4 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 36414
+fivetwo2three42onegzt1 firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 36465
+eightninelbltqg448eight firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 36553
+9lhbrvfhsbtzlrfivefour2 firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 36645
+dhlhk31znbvzbxkxzhvnone2gglg8 firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 36683
+twobxrrlpdcb6five firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 36708
+ddgmsevensevenv99six firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 36784
+5vztngb firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 36839
+qlfnc3five firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 36874
+tslrgmptqlntwoxt5qsxfclzgzkgfzsnfkhj firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 36899
+87mmsxvpfrtfour firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 36983
+mjtkmlfpk7eight firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 37061
+4k12ljdx firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 37103
+2bgrmlszl firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 37125
+qmfffgpdgtwo3rfgfmpxk3rjxthn9five firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 37150
+4lpgxn6sg4 firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 37194
+1xpktpcmmgbnrct8358one3 firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 37207
+xtzdqjthreeeightone575 firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 37242
+jdps3nbjdsjtpgl389z6twonebgt firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 37273
+1eighteightxfour77 firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 37290
+rqrmk1m7gbkseven1xlxmncc firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 37301
+cfkz24zh firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 37325
+18z firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 37343
+7kjbthk3twonine9lgn firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 37422
+7seventhree firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 37495
+3dxsmd5six firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 37531
+r2threefv firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 37554
+lbtlbvfvconegmcxnineclgbzsvkz5drtwo firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 37566
+45cpxfivethree firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 37609
+one9six firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 37625
+7fivefivelthree firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 37698
+sevensixfour4lrlgrhszpb2 firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 37770
+twokrvnhgsixzmtmqth9one6 firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 37796
+eightsixfsfr958716 firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 37882
+smznctwozzphfk48eight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 37910
+mfvlq546onesxl56 firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 37966
+6fivemhh firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 38031
+jhteightwonzpgtdbxgb3 firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 38114
+12gvh firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 38126
+four3eightone56 firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 38172
+vnhbkcvbkldcrtqthhbbzbqkgkdkbgcznpfour4five8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 38220
+992three75znxghjzzxkvtmthp firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 38315
+three3three6dfivexbffbnbnjj26 firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 38351
+three5zllrfthreecpfcvpflkm firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 38384
+ftbdshfsjhpttsscpgcplz6ndzsk firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 38450
+trsfrxlndtwothree3rzkvhgdnlq2three firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 38473
+998 firstNumber 9 lastNumber 8 twoDigitNumber 98
+sum 38571
+fntnfour3seveneight1five9 firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 38620
+88485rhdfrgsix firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 38706
+jgzbgcvjoneonefour39 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 38725
+88vmxnine firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 38814
+2tjxscvpnhlbstthrees88 firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 38842
+zonesthvqnfczfive67two81 firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 38853
+4sixckzftfh1mcfjdc firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 38894
+ktmnjmlone3lthreetwolhxtpqftrbljmjjhbkl firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 38906
+8mmsevenfiveddjxqgpseven firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 38993
+two3tzszcrf firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 39016
+4qmstsmrfive firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 39061
+5threennjstfivemnpgndnpkbfour5 firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 39116
+fivetmpcsbtjlgdkct68sevenonet firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 39167
+seven1one16seven47 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 39244
+lpmxtlq7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 39321
+six1jmnhrsbktdlfqjrmg21 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 39382
+six2nine7xdzb6twoneqbk firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 39443
+two5eight2jmfxqgrsfiveeight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 39471
+gvmcfzpthfourfivefourfive5lqskhz6 firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 39517
+fourfive1 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 39558
+tzzkgsthsevenfour6seven firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 39635
+twofour9 firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 39664
+hdbqpvvr3qjsq firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 39697
+seventwo1beight8 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 39775
+eight8eightvzhsxjjkfkvtpr firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 39863
+7three74gfph firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 39937
+cxnine6fivexjvstcvpblmc3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 40030
+3xqhlksmqdzrrptnine1bjknntpts15j firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 40065
+7zrg firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 40142
+dhhjdjvzv42one3 firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 40185
+54mlg8ldhdtcp firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 40243
+five3zrpfphtone1dszspzqkqcqfzcm firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 40294
+vzjdxhbnnxvfnb6nnjone3twonine firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 40363
+lbjsfzfmcn7two firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 40435
+gctcfive3l8twonezbr firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 40486
+43sevenfour81three firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 40529
+eight82one56gmlgvchbf7five firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 40614
+fournb2 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 40656
+2czhjproneq firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 40677
+449oneskqjdcxszvvlhhddb firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 40718
+fdnkhnvnzpfive7six firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 40774
+four6slzcflxhthree5zbfour firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 40818
+8fsmsvhnkgnf53jvcshnp3sixqffls firstNumber 8 lastNumber 6 twoDigitNumber 86
+sum 40904
+2mckdlh5 firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 40929
+3onemnvfzpsevenseven1 firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 40960
+fourgbzcvvzninemzcvj625 firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 41005
+hmkgzmtwonine1threesdsdxfbgmpqrrsftz firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 41028
+seven4hrmkdmmhmr9sixthreefour85 firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 41103
+dbnpgh9vkdtjtct5five firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 41198
+fourzzffg9vbgjmh firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 41247
+35sixqdvxmxpbntwo firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 41279
+two3ninefourfivefivecllv firstNumber 2 lastNumber 5 twoDigitNumber 25
+sum 41304
+ninerdscsdxthveight1sevenpvksjzqdhfjvhgs firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 41401
+sixfive84xbgqjkthreexnine firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 41470
+pmqbk9khcrhxjxmksixrxbffllkf firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 41566
+2eightsevenone51mdnrhs firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 41587
+62jfjdsklvnqthree8 firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 41655
+9sixfivetk3threeqxbkmgzxgpt firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 41748
+rgrkj1sixfive5 firstNumber 1 lastNumber 5 twoDigitNumber 15
+sum 41763
+8ljlxjlcnthreelhjpngxmxnxdgv firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 41846
+nine7snjkt3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 41939
+x8fourdqfksrft3eight7fiveeight firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 42027
+two7snltljp6 firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 42053
+gflvdblndveighteight5sevenone3nineone firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 42134
+6five77oneninesmbtbtzp firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 42203
+fiveqzxt96 firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 42259
+cbjnmcmb3vhljkrxlxnkdtjprzh8nine firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 42298
+33dfqq firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 42331
+8one76fourxb firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 42415
+dxxhb6bclg5dtmxzxrmb firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 42480
+eight2jcgch2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 42562
+twoseventqkxzb4 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 42586
+rhnp7dmsz42two4 firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 42660
+three7ninejxszpkln7twov firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 42692
+4fivenhmsbkfnx51 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 42733
+756zvfktjqc8 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 42811
+five45dvdjmk6two49 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 42870
+8one8fhrs5threefbfrd firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 42953
+2mh7zpgbfourglvt7 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 42980
+8vbzdvdmghrtwojmcmlbqzn firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 43062
+twoninefive3qvseven3seven8 firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 43090
+four3n2znkrjvz45 firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 43135
+dkgbsx869qrgvtwo firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 43217
+fttsp2twothreetsffjpk9cs firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 43246
+7nine3ksbjznrblrgbsrzvpm firstNumber 7 lastNumber 3 twoDigitNumber 73
+sum 43319
+six7xqqssrdgkgbqjmsevenfivefour3 firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 43382
+9gsfhktv firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 43481
+2fgmmxjjzx firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 43503
+one8gnhrkjonesix firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 43519
+5eight99zlcrkdp69eight8 firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 43577
+lpghsqqltgqkvbphnspn9ldxsbdsqbgjpnl3 firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 43670
+xpvvngqf37mng2 firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 43702
+sixscvk8two firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 43764
+3xv8twofoursix firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 43800
+eight4eightrxjcnzcqh3seventhree57 firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 43887
+threethree537eightfour firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 43921
+njk6threesevenzdzjmldmvkp firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 43988
+onenpb53six firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 44004
+three9144sixknrfjvveight firstNumber 3 lastNumber 8 twoDigitNumber 38
+sum 44042
+9twotwovjtdq8fourcmjnp9hq firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 44141
+threepdfl3sfjg firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 44174
+twokngvrbsq3threesixthreesix firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 44200
+eight2six89msjtqqqsdlgjrdgh firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 44289
+sixnine2five74three5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 44354
+9xdmhncneightzjsznthflxsix firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 44450
+51eightzjmlfctzfcf firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 44508
+4sixhjrnine2eight4 firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 44552
+ninesixonetwoeight1four firstNumber 9 lastNumber 4 twoDigitNumber 94
+sum 44646
+4sixfkllzstwo91 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 44687
+rtlkqg2fourxhgcfive92hsvjpczsjtq firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 44709
+two17 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 44736
+three85two5five6twobpftvzkcq firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 44768
+sevensevenone5 firstNumber 7 lastNumber 5 twoDigitNumber 75
+sum 44843
+ng43gcvc3eight firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 44891
+jzjbsttcrdgfhsddrhkhzgqjjsmpntjqz3sixcvbksklr firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 44927
+hpzeightksvmxhsix6chnllpzh7 firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 45014
+ninek98sixnineeightjptkmbbsghseven firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 45111
+lssfiveone5five6zone firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 45162
+5cjdzgtsixseven4seven6bkprzxn firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 45218
+3fivemtbpznnine4sqhc firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 45252
+fourdllqn4 firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 45296
+86kxftxhrvbv7bqgvbflh firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 45383
+6one91ctlzztdkkt5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 45448
+three81seven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 45485
+5fivedltbtfl1hsixnine firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 45544
+3eightone2five5nfbdqnxftkvnznjkqmf firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 45579
+fiveltxdrgzlnptvql7 firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 45636
+two83eight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 45664
+zggkonefour46eightninesdcxthree firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 45677
+one7sevensck firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 45694
+mnd12fourhjplkzkbzb5dvhnttq9zdftpk firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 45713
+oneljbdxmggg4 firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 45727
+6six6eight5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 45792
+threefourtwo9 firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 45831
+3three4bdbzmhfkc firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 45865
+9zcsixhfrvsmjbh firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 45961
+2pmdhtmlxtfive7 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 45988
+16bfldpmhvpr firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 46004
+trshxpzhrz5seven5vcsqfgkl5 firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 46059
+srfqlzzsmsix5sixdjqnzfjfqrzpqcklgn firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 46125
+fqvvjmhsix53kqvdzxllmp7 firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 46192
+fjgkq71ninetwosix firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 46268
+62nsdmxtrtdt7429 firstNumber 6 lastNumber 9 twoDigitNumber 69
+sum 46337
+8fivefive firstNumber 8 lastNumber 5 twoDigitNumber 85
+sum 46422
+four8nineninenine9 firstNumber 4 lastNumber 9 twoDigitNumber 49
+sum 46471
+ndfkcn26twoone9 firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 46500
+dmchjmdone1tvnqspjpkgj firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 46511
+98gdlrmclhlninexg firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 46610
+qv8 firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 46698
+sevensjzpkjdkvh3mztx9toneightjn firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 46776
+1fx6q firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 46792
+four423threepvs5 firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 46837
+tqjllvqgtjxdplzmjnmvjjsgtwo2one77 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 46864
+zfvdbctxnnine1 firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 46955
+2three4cddhchjtseven6 firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 46981
+6dkceight5threexdzsdthreelqftbt firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 47044
+cneightwonine5csjzkt79zn firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 47133
+vcshhvsx2frfrxsvph firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 47155
+hsrhpld6jeightcqnx3 firstNumber 6 lastNumber 3 twoDigitNumber 63
+sum 47218
+zqljvbk672six firstNumber 6 lastNumber 6 twoDigitNumber 66
+sum 47284
+sixfckdsbtmkj193onetwonexm firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 47345
+zvrspqsmrkxdztwo7 firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 47372
+98fourninecvcddkfqkthree firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 47465
+npg78frlvhzlvksgfive9eight6 firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 47541
+6sixsixfive firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 47606
+hfgtwonemxlrsbzhbrssttxnbz8zxggdkfivekp1 firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 47627
+bkrlvfhvfiveninefivefiverbbjrzvcglzztvbh3 firstNumber 5 lastNumber 3 twoDigitNumber 53
+sum 47680
+2six4 firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 47704
+onepsp876 firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 47720
+8bhfstfgpbhgknqdcbnfvhrqxthreer firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 47803
+3dqnkpdxbffvnt9 firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 47842
+913sixsixcvvccvrkdg5 firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 47937
+sixthree6sevenjnxqxpt firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 48004
+3one345hvspxcxds firstNumber 3 lastNumber 5 twoDigitNumber 35
+sum 48039
+pgtdlvrpvn4crkct7sevenonelhvjhg firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 48080
+6threetlhxbbhg7n firstNumber 6 lastNumber 7 twoDigitNumber 67
+sum 48147
+ggbfkmhv94five4325 firstNumber 9 lastNumber 5 twoDigitNumber 95
+sum 48242
+gdsmhtgx4qhjhg8tblb firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 48290
+dtckfqtq58six2sevennine firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 48349
+2zljcfivebmclpgtgzpchblxjtwovnrhnine9 firstNumber 2 lastNumber 9 twoDigitNumber 29
+sum 48378
+eightninenine9nine firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 48467
+rlmch2sddddvlc2one4xzvpmprrzcthree firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 48490
+dcsjglpn233zhpfn9three firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 48513
+nineqclzpbzsix3cltjqlnbcklgbrvgrqtngqgslhqfsh firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 48606
+gskkptdskgqkbt9onepfjnzlcsslzzjmrkrbfhrfqfjnc firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 48697
+27sevenseven firstNumber 2 lastNumber 7 twoDigitNumber 27
+sum 48724
+7rnvlms2 firstNumber 7 lastNumber 2 twoDigitNumber 72
+sum 48796
+ninecthtfive7vbfoursix firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 48892
+6four1sevenrvfmkrtbgbszpgxrmcdrseventhreefour firstNumber 6 lastNumber 4 twoDigitNumber 64
+sum 48956
+one85mfivelncvhxthree1ktflkxq firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 48967
+dpmpzqklqh3seven firstNumber 3 lastNumber 7 twoDigitNumber 37
+sum 49004
+91twolzjmtseven49 firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 49103
+sevensix384 firstNumber 7 lastNumber 4 twoDigitNumber 74
+sum 49177
+three45pcrn96 firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 49213
+fkhhpninedt3eightbqlsvn firstNumber 9 lastNumber 8 twoDigitNumber 98
+sum 49311
+threefjkvdhdrxjkdnxceightzkqz6 firstNumber 3 lastNumber 6 twoDigitNumber 36
+sum 49347
+fivevbmlmmxhdxthdfqtfourthree8nine39 firstNumber 5 lastNumber 9 twoDigitNumber 59
+sum 49406
+fpzvnpzsrl6qxbltmxrs1 firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 49467
+xjmoneightfourthreesixrjnx3fourfivelzsghpfcvtwo firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 49479
+sixbcbtlfjvfour3pqmjtzk8fmjx firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 49547
+77 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 49624
+1ckkblncjm9sevenbkdvmbxxgnsix firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 49640
+five5fpbxxonephfdqjnpdcpjvpboneightrd firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 49698
+3nztmnhcncfncpnzvpbfivehltwomrsdgp firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 49730
+twosixthreethree7threessqchc8 firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 49758
+rlxzjfm2four2 firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 49780
+five75l65 firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 49835
+19onejm3bjhrf firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 49848
+7cjnsthreezxxzrld9dcqcsgkng firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 49927
+vqbxmtmfspddpkthreeseven2vx firstNumber 3 lastNumber 2 twoDigitNumber 32
+sum 49959
+417sixhgdgfour3jflksddlvfour firstNumber 4 lastNumber 4 twoDigitNumber 44
+sum 50003
+8htlbhrtkmzqvqv9three2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 50085
+rdrsqzcvxcnine6onehthree firstNumber 9 lastNumber 3 twoDigitNumber 93
+sum 50178
+plptwone5sixnineg285foursnkklcjzdg firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 50202
+fivesix8one firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 50253
+vmseven19 firstNumber 7 lastNumber 9 twoDigitNumber 79
+sum 50332
+lfour1qfmzxqrv9nine4eight firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 50380
+vfczbqzrkbfivejzfgxzvssixrcxphssfoursix6mrzm firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 50436
+49ndvplzlzkqffngqbdrscgmsxvtxhseven firstNumber 4 lastNumber 7 twoDigitNumber 47
+sum 50483
+fivejxnine4fldq2 firstNumber 5 lastNumber 2 twoDigitNumber 52
+sum 50535
+onegzxhrgksnvnine8zfnvqfxponeljx firstNumber 1 lastNumber 1 twoDigitNumber 11
+sum 50546
+jjx6ntghmhznlrjfbksgfcbbrhmklltfddkrvlzmzx2 firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 50608
+six53316eightgxggjdt firstNumber 6 lastNumber 8 twoDigitNumber 68
+sum 50676
+three7mxndngcvxbkgxqthreetwoneh firstNumber 3 lastNumber 1 twoDigitNumber 31
+sum 50707
+7nvcshvrkrlsd firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 50784
+fivefive4four5kjqvpbqftfiveqxknvmx firstNumber 5 lastNumber 5 twoDigitNumber 55
+sum 50839
+tbpmvq9 firstNumber 9 lastNumber 9 twoDigitNumber 99
+sum 50938
+qnxmspzq2lcdzvskhzgfour firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 50962
+ninetwoftqzfqcskvhzd4tgqdkvrttmtb77 firstNumber 9 lastNumber 7 twoDigitNumber 97
+sum 51059
+fivethreedqzrhpseven6two64 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 51113
+7bl firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 51190
+294nine7eight firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 51218
+three9threevqzlxgrzsx firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 51251
+three1rvdtcgctl8nine48jhtfscthree firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 51284
+qgl1czghsevengnkztgszx firstNumber 1 lastNumber 7 twoDigitNumber 17
+sum 51301
+879onedxhh firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 51382
+five95qmeight firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 51440
+onerhbvfxcxtwonine32nxgjprtzc firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 51452
+xchd7kcpjvmm2qnsnjntc7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 51529
+rbeightfnzrfsnv6six4 firstNumber 8 lastNumber 4 twoDigitNumber 84
+sum 51613
+hbfoneight2lkrqsgtffvl firstNumber 1 lastNumber 2 twoDigitNumber 12
+sum 51625
+onehppls9 firstNumber 1 lastNumber 9 twoDigitNumber 19
+sum 51644
+7sksblpkpkfourtone firstNumber 7 lastNumber 1 twoDigitNumber 71
+sum 51715
+mscbl2c9zvdztmthreeonesix firstNumber 2 lastNumber 6 twoDigitNumber 26
+sum 51741
+foursskfbdgnd7mbqtl4threetwo5 firstNumber 4 lastNumber 5 twoDigitNumber 45
+sum 51786
+threelpkgvrcsix13knhspknpjhonefour firstNumber 3 lastNumber 4 twoDigitNumber 34
+sum 51820
+4twovkrbhcm5three7eightcdxjlz2 firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 51862
+qmtdbh1eight2four4gh8 firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 51880
+one13 firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 51893
+twotwo98three71four firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 51917
+4gmqvfour7pfgj8 firstNumber 4 lastNumber 8 twoDigitNumber 48
+sum 51965
+8twoseven firstNumber 8 lastNumber 7 twoDigitNumber 87
+sum 52052
+qxcxqztxppgsgpphttfqkbd14htjvrvq firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 52066
+7heighttwothreegvtvhtbxfqj8 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 52144
+154nfzx6bxmxb4cpj firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 52158
+5qfknfrhdmr7tffjrzzpctwotwo1 firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 52209
+fourjdfgcqzfdgzlhshcxthree3 firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 52252
+glpxpm5qtmsft7vxhvmmgxjpk firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 52309
+4threehddfnntzkktwo firstNumber 4 lastNumber 2 twoDigitNumber 42
+sum 52351
+eight6tlkmmncfour8eightfivenine firstNumber 8 lastNumber 9 twoDigitNumber 89
+sum 52440
+sixseventhreens2bgdseven5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 52505
+three6three firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 52538
+qmbfjthreebxf83ninesflzljgrxrv firstNumber 3 lastNumber 9 twoDigitNumber 39
+sum 52577
+seven8six firstNumber 7 lastNumber 6 twoDigitNumber 76
+sum 52653
+rpzls2threetwo53tttgfc firstNumber 2 lastNumber 3 twoDigitNumber 23
+sum 52676
+7ln firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 52753
+sevenseven482seven firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 52830
+lkmvnjmhzhseven2jxsix8 firstNumber 7 lastNumber 8 twoDigitNumber 78
+sum 52908
+oneninelttqjtbgmpq8 firstNumber 1 lastNumber 8 twoDigitNumber 18
+sum 52926
+95twopqmf firstNumber 9 lastNumber 2 twoDigitNumber 92
+sum 53018
+9onevmdkrdbntbrgmqhktszxmzjvpdv firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 53109
+5h4rnhknfeight7 firstNumber 5 lastNumber 7 twoDigitNumber 57
+sum 53166
+1nine9xgvph1lnbjdnmhhfour firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 53180
+cfhkhgzjtwo23ffqng1 firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 53201
+five23six firstNumber 5 lastNumber 6 twoDigitNumber 56
+sum 53257
+five29ctdtwoqqkf2one firstNumber 5 lastNumber 1 twoDigitNumber 51
+sum 53308
+fourdfive1jqhmbfqjx1 firstNumber 4 lastNumber 1 twoDigitNumber 41
+sum 53349
+5one5jrsteight firstNumber 5 lastNumber 8 twoDigitNumber 58
+sum 53407
+tlkggjmtfxblz9nine7one firstNumber 9 lastNumber 1 twoDigitNumber 91
+sum 53498
+89nine2 firstNumber 8 lastNumber 2 twoDigitNumber 82
+sum 53580
+tbhtxtvsqfmlnbsdghcrqtjgzone6ninethree firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 53593
+gknxrgpj3mvrplvf firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 53626
+twombndtlxdxk5qhj1 firstNumber 2 lastNumber 1 twoDigitNumber 21
+sum 53647
+fourfourlrcn6 firstNumber 4 lastNumber 6 twoDigitNumber 46
+sum 53693
+r926 firstNumber 9 lastNumber 6 twoDigitNumber 96
+sum 53789
+one2727threepzz23 firstNumber 1 lastNumber 3 twoDigitNumber 13
+sum 53802
+zbzb8lgsgrkqcnm firstNumber 8 lastNumber 8 twoDigitNumber 88
+sum 53890
+2p1nggbmpklvfivethree8 firstNumber 2 lastNumber 8 twoDigitNumber 28
+sum 53918
+3szfjrv firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 53951
+75447 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 54028
+1fourthreesix6 firstNumber 1 lastNumber 6 twoDigitNumber 16
+sum 54044
+2mjqdspnmvccpzthree1twofour firstNumber 2 lastNumber 4 twoDigitNumber 24
+sum 54068
+6two7krbnzm5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 54133
+dkmmzhbvq3three6threeqgcfgkv firstNumber 3 lastNumber 3 twoDigitNumber 33
+sum 54166
+gt7 firstNumber 7 lastNumber 7 twoDigitNumber 77
+sum 54243
+fivefiveone64 firstNumber 5 lastNumber 4 twoDigitNumber 54
+sum 54297
+klphjpv4one3cmlcrfk firstNumber 4 lastNumber 3 twoDigitNumber 43
+sum 54340
+xone44 firstNumber 1 lastNumber 4 twoDigitNumber 14
+sum 54354
+6eightninevkmlrxcht5 firstNumber 6 lastNumber 5 twoDigitNumber 65
+sum 54419
+6dhmzsixthreetwo3one firstNumber 6 lastNumber 1 twoDigitNumber 61
+sum 54480
+8twosvdmcntf1hfive393 firstNumber 8 lastNumber 3 twoDigitNumber 83
+sum 54563
+8gqggmssjgjfive6gvgtqhhxpmzmzrone firstNumber 8 lastNumber 1 twoDigitNumber 81
+sum 54644
+two17nxbvqqdgcbjhsmdbdclnkzgbzjmcsfgnine2 firstNumber 2 lastNumber 2 twoDigitNumber 22
+sum 54666
+sixeightfive3sdtwo firstNumber 6 lastNumber 2 twoDigitNumber 62
+sum 54728
